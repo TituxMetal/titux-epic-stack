@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "@conform-to/react": "^1.0.0",
-    "@conform-to/zod": "^0.9.1",
+    "@conform-to/zod": "^1.0.0",
     "@epic-web/cachified": "^5.0.0",
     "@epic-web/client-hints": "^1.2.2",
     "@epic-web/invariant": "^1.0.0",
